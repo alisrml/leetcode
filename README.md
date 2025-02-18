@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/alisrml/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alisrml/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/alisrml/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/alisrml/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/alisrml/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/alisrml/leetcode/tree/master/0443-string-compression) |
 ## Simulation
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/alisrml/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/alisrml/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alisrml/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/alisrml/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/alisrml/leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/alisrml/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/alisrml/leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/alisrml/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
